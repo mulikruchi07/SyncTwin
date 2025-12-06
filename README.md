@@ -2,6 +2,10 @@
 
 This project demonstrates a **Digital Twin** model of an autonomous vehicle using **ESP32** for hardware integration and a **React + Vite + Three.js** stack for 3D visualization. Real-time sensor data (IMU and Ultrasonic) is transmitted to **Supabase** and visualized live in a browser using a 3D car model.
 
+### Project Images
+![Project Image 1](Project.jpg)
+![Project Image 2](model.jpg)
+
 ### 🧩 Project Overview:
 - **Problem Statement:** Developing a Digital Twin for Autonomous Vehicle using ESP32.
 - **Hardware:** A miniature car setup with ESP32, IMU, and ultrasonic sensors.
